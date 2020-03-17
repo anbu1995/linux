@@ -1,0 +1,23 @@
+** diff command is used to compare two files line by line. It can also be used to find the difference between 
+two directories in Linux like this
+   
+ $ diff file1 file2
+    
+**groups command displays all the names of groups a user is a part of like this
+ 
+ $ groups
+ $ groups tecmint
+ 
+ 
+**id command shows user and group information for the current user or specified username as shown below.
+
+ $ id tecmint
+ 
+**date command displays/sets the system date and time like this.
+  
+  $ date
+  $ date --set="8 JUN 2017 13:00:00"
+  
+  **cp command is used for copying files and directories from one location to another.
+  
+  $ cp /home/tecmint/file1 /home/tecmint/Personal/
